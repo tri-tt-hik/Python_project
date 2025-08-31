@@ -56,6 +56,3 @@ This project requires the following Python libraries:
     PyMuPDF
     Pillow
     Vonage
-
-License:
-This project is licensed under the MIT License.
